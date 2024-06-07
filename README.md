@@ -35,17 +35,16 @@ Farley, D. (2021). Modern Software Engineering: Doing What Works to Build Better
 
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
 
-Phase 1 Project Planning: The planning phase typically includes tasks like cost-benefit analysis, scheduling, resource estimation, and allocation. The development team collects requirements from several stakeholders such as customers, internal and external experts, and managers to create a software requirement specification document.
-Phase 2 Design: In the design phase, software engineers analyze requirements and identify the best solutions to create the software. 
-Phase 3 Implementation: In the implementation phase, the development team codes the product. They analyze the requirements to identify smaller coding tasks they can do daily to achieve the final result.
+Phase 1 Project Planning: The planning phase typically includes tasks like cost-benefit analysis, scheduling, resource estimation, and allocation. The development team collects requirements from several stakeholders such as customers, internal and external experts, and managers to create a software requirement specification document.<br>
+Phase 2 Design: In the design phase, software engineers analyze requirements and identify the best solutions to create the software.<br> 
+Phase 3 Implementation: In the implementation phase, the development team codes the product. They analyze the requirements to identify smaller coding tasks they can do daily to achieve the final result.<br>
 Phase 4: Testing: The development team may combine automation and manual testing to check the software for bugs. The testing phase often runs parallel to the development phase, Because many teams immediately test the code they write.
-Phase 5: Deployment: n the Deployment phase, the software is deployed to the production environment where it will be used by end-users. Activities in this phase involve installation, configuration, and user training.
-Phase 6: Maintenance: In the maintenance phase,  the team fixes bugs, resolves customer issues, and manages software changes.
-
+Phase 5: Deployment: n the Deployment phase, the software is deployed to the production environment where it will be used by end-users. Activities in this phase involve installation, configuration, and user training.<br>
+Phase 6: Maintenance: In the maintenance phase,  the team fixes bugs, resolves customer issues, and manages software changes.<br>
 Agile vs. Waterfall Models:
-The agile model arranges the SDLC phases into several development cycles. The team iterates through the phases rapidly, delivering only small, incremental software changes in each cycle. They continuously evaluate requirements, plans, and results so that they can respond quickly to change. The agile model is both iterative and incremental, making it more efficient than other process models.
-Pros and cons
-Rapid development cycles help teams identify and address issues in complex projects early on and before they become significant problems. They can also engage customers and stakeholders to obtain feedback throughout the project lifecycle. However, overreliance on customer feedback could lead to excessive scope changes or end the project midway.
+The agile model arranges the SDLC phases into several development cycles. The team iterates through the phases rapidly, delivering only small, incremental software changes in each cycle. They continuously evaluate requirements, plans, and results so that they can respond quickly to change. The agile model is both iterative and incremental, making it more efficient than other process models.<br>
+Pros and cons<br>
+Rapid development cycles help teams identify and address issues in complex projects early on and before they become significant problems. They can also engage customers and stakeholders to obtain feedback throughout the project lifecycle. However, overreliance on customer feedback could lead to excessive scope changes or end the project midway.<br>
 Waterfall model
 The waterfall model arranges all the phases sequentially so that each new phase depends on the outcome of the previous phase. Conceptually, the design flows from one phase down to the next, like that of a waterfall.
 Pros and cons
